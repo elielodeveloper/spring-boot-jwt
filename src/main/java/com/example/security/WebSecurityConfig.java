@@ -1,4 +1,4 @@
-package com.jwtme.security;
+package com.example.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
