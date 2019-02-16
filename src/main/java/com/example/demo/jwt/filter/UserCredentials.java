@@ -1,10 +1,9 @@
-package com.example.security;
+package com.example.demo.jwt.filter;
 
-public class AccountCredentials {
+public class UserCredentials {
 	
 	private String username;
 	private String password;
-	
 	public String getUsername() {
 		return username;
 	}
@@ -17,4 +16,5 @@ public class AccountCredentials {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	
 }
